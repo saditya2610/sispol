@@ -1,9 +1,4 @@
-# web_ikm
+# SISPOL
 
-Tim
-- Azis
-- Cici
-- Umam
-- Fatur
 
-Sistem  Indeks Kepuasan MAsyarakat (IKM) untuk membantu Pegawai LAPAN untuk melakukan Survei terhadap layanan yang ada di Per.LAPAN 
+## Sispol (Sistem Polling) yang memberikan masukan berdasarkan pertanyaan yang disediakan pada SISPOL kepada Instansi yang bekerja sama dengan perusahaan
